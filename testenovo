@@ -1,0 +1,5 @@
+git init
+git remote add origin https://github.com/km010368/editara-site.git
+git add .
+git commit -m "Primeira versão do site Editara"
+git push -u origin master
